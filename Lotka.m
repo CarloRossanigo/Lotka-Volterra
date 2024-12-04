@@ -1,6 +1,6 @@
 %%Matlab simply code for Lotka-Volterra model 
 %% codice Matlab semplice per visualizzare il modello Lotka-Volterra
-%% addpath for file (made by codeblocks) location
+%% addpath for file location..it could be in the same folder, in this case it's useless
 addpath '/Users/your_name' %aggiungo il percorso per il file dei risultati
 
 k=load('Lotka'); %%file name /nome file
